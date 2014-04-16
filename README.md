@@ -35,7 +35,7 @@ get a node and connectivity going.
 Build
 =======
 
-This is the Developer package. For the Ethereal client please see
+This is the Developer package. For the Ethereum client please see
 [Ethereum(G)](https://github.com/ethereum/go-ethereum).
 
 `go get -u github.com/ethereum/eth-go`
